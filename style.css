@@ -79,7 +79,7 @@ h1 span {
 }
 
 .card {
-  --br: 0.325rem;
+  --br: 0.3rem;
 
   background-color: var(--clr-neutral-100);
   border-top: var(--br) solid;
