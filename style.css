@@ -55,7 +55,6 @@ h2 {
 h1 {
   font-weight: var(--fw-light);
   font-size: 1.5rem;
-  /* line-height: 1.4585; */
   line-height: 1.45;
   margin-bottom: 1rem;
 }
