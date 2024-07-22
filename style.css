@@ -16,9 +16,9 @@
   --fs-600: 1.625rem;
   --fs-900: 2.5rem;
 
-  --fw-light: 100;
+  --fw-light: 200;
   --fw-normal: 400;
-  --fw-bold: 500;
+  --fw-bold: 600;
 }
 
 *,
