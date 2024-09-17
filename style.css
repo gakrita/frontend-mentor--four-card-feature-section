@@ -137,6 +137,10 @@ h1 span {
     margin-bottom: 1.05rem;
   }
 
+  header p {
+    font-size: var(--fs-400);
+  }
+
   .grid-flow {
     --gap: 1.875rem;
 
