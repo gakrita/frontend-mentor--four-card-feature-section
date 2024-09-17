@@ -140,7 +140,7 @@ h1 span {
   }
 
   .grid-flow {
-    --gap: 1.875rem;
+    --gap: 1.8rem;
 
     grid-template-areas:
       "... two ..."
