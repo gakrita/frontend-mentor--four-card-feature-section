@@ -68,7 +68,7 @@ h1 span {
 }
 
 .grid-flow {
-  --gap: 1rem;
+  --gap: 1.5rem;
 
   display: grid;
   grid-auto-columns: 1fr;
