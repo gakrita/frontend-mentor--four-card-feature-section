@@ -1,5 +1,7 @@
 # Frontend Mentor - Four card feature section
 
+## 🎨 Επιθυμητό Design
 ![Design preview for the Four card feature section coding challenge](./design/desktop-preview.jpg)
 
-[Δες το Live εδώ!](https://gakrita.github.io/Frontend-Mentor--Four-card-feature-section/)
+## 📸 Η λύση μου
+👉 [Live Demo](https://gakrita.github.io/Frontend-Mentor--Four-card-feature-section/)
